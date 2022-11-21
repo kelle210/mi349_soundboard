@@ -1,0 +1,28 @@
+html {
+    background-color: antiquewhite;
+}
+
+button {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: rgb(226, 145, 145);
+    font-size: large;
+}
+
+button:hover {
+    background-color: rgb(229, 96, 96);
+}
+
+#soundboard {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(172, 213, 131);
+    padding: 20px;
+    border-radius: 20%;
+}
